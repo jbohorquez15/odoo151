@@ -6,7 +6,7 @@
        Este Modulo esta personalizado para algunas funciones propias """,
 
     'description': """
-        por ejemplo aprobacion de transferencias, responsables de bodegas entre otras coasa
+        por ejemplo aprobacion de transferencias, responsables de bodegas entre otras cosas
     """,
 
     'author': "Callhpne S.A",
